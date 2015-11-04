@@ -1,0 +1,26 @@
+body {
+  font-family: 'Satisfy', cursive; }
+
+.container {
+  background-color: grey;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  padding: 100px; 
+  width: 900px;
+  height: 300px;
+
+
+}
+
+  #timestamp {
+    float: left;
+    width: 50%;
+    height: 100%;
+  }
+
+  #timestamp2 {
+    float: right;
+    width: 50%;
+    height: 100%;
+  }
